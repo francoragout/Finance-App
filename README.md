@@ -1,5 +1,5 @@
 # Finance App
-This web application will allow me to keep track of my monthly expenses.
+## This web application will allow me to keep track of my monthly expenses.
 Interface requirements:
 ### The Application must contain a Form and a Table.
 ### The form must contain:
