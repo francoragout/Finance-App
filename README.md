@@ -1,7 +1,7 @@
 This web application will allow me to keep track of my monthly expenses.
 Interface requirements:
-● The Application must contain a Form and a Table.
-● The form must contain:
+  ● The Application must contain a Form and a Table.
+  ● The form must contain:
 ○ A combo with options with the title Category. Element Examples
 Listed in the combo: Transportation, Warehouse, Recreation, Gym, Electricity,
 Cell phone, Internet, Miscellaneous Expenses, etc.
